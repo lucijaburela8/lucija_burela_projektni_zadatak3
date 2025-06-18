@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: white;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: darkslateblue;
+	padding: 20px;
+}
+.paragraf_2 {color:white; background-color:darkslateblue}
+.novi_blok{
+	background-color: rgba(255, 255, 255, 0.9);
+	padding: 20px;
+	margin: 20px;
+	width:50%;
+}
+h1, h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    color:black;
+}
+
+h4 {
+font-family:ProbaLucijaBurela;
+	font-family;
+	font-size: 100px;
+		padding:30
+		   px;
+		color:#FFFFFF
+}
+
+h5 {
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-family;
+	font-size:65px;
+	   padding:10
+		   px;
+	color: white
+
+}
+span {color: rgb(255, 0, 255);}
+.pozadina{
+	background-image: url("Dokumenti/download (1).jpg");
+    background-color: mediumpurple;
+}
+.drugapozadina {
+	background-color: darkgreen;
+}
+a:link {
+	color:black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000;
+}
+a:hover {
+	background-color: darkgray;
+}
+img {
+	height: 350px;
+}
